@@ -1,0 +1,9 @@
+[config]
+
+name="RequestReview"
+binary_type="local"
+binary="RequestReview-release.aar"
+
+[dependencies]
+
+remote=["com.google.android.play:review:2.0.0", "com.google.android.play:review-ktx:2.0.0"]

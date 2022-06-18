@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 7.1.1" type="baseline" client="gradle" dependencies="false" name="AGP (7.1.1)" variant="all" version="7.1.1">
+
+    <issue
+        id="GradleCompatible"
+        message="Dependencies using groupId `com.android.support` and `androidx.*` can not be combined but found `com.android.support:support-v4:26.1.0` and `androidx.core:core-ktx:1.8.0` incompatible dependencies">
+        <location
+            file="build.gradle"/>
+        <location
+            file="build.gradle"
+            line="37"
+            column="21"/>
+    </issue>
+
+</issues>
