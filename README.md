@@ -1,5 +1,5 @@
-# godot-android-firebase-message
-Godot Android plugin for the in-app reviews
+# godot-android-request-review
+Godot Android plugin for the in-app reviews  
 https://developer.android.com/guide/playcore/in-app-review/kotlin-java
 
 ## Usage
